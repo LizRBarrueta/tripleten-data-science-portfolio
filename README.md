@@ -1,51 +1,157 @@
-## **Data Science Portfolio**
+# Lizbeth Rodríguez | Data Scientist
 
-Welcome to my Data Science portfolio! This repository showcases projects developed during my Data Science bootcamp at TripleTen, demonstrating my skills in data analysis, machine learning, statistical analysis, and predictive modeling.
+Welcome to my Data Science portfolio!
 
-### **About Me**
+I am a Data Scientist with a background in Business Administration, Project Management, and over 17 years of professional experience in the airline industry.
 
-I am a Data Science professional with a background in Business Administration, an MBA focused on Project Management, and over 17 years of experience in airline operations and crew planning.
+After building my career in operational planning and data-driven decision-making, I transitioned into Data Science to combine my business experience with analytical and technical skills.
 
-Throughout my career, I worked with operational data, training records, planning processes, and large datasets to support business operations and decision-making. I am now combining this industry experience with my technical skills in data science to solve business problems through data-driven insights and machine learning.
+I recently completed the TripleTen Data Science Bootcamp, where I developed practical experience in data analysis, statistical testing, machine learning, and predictive modeling through real-world projects.
 
-### **Technical Skills**
+My goal is to transform data into meaningful insights and actionable business solutions.
 
-**Programming:** Python, SQL
+## Technical Skills
 
-**Data Analysis:** Pandas, NumPy
+**Programming & Data Analysis**
+- Python
+- SQL
+- Pandas
+- NumPy
+- SciPy
 
-**Data Visualization:** Matplotlib, Seaborn, Plotly
+**Data Visualization**
+- Matplotlib
+- Seaborn
+- Streamlit
 
-**Machine Learning:** Scikit-learn, classification, regression, model evaluation
+**Machine Learning**
+- Scikit-learn
+- Supervised Learning
+- Classification & Regression
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Tuning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Time Series Forecasting
 
-**Data Science:** Exploratory Data Analysis (EDA), statistical hypothesis testing, data preprocessing, feature engineering, predictive modeling
+**Tools**
+- Jupyter Notebook
+- Git & GitHub
+- Google Colab
 
-**Tools:** Jupyter Notebook, GitHub, Streamlit
+## Data Science Projects
 
-### **Featured Projects**
+This portfolio showcases projects developed during my Data Science training, covering exploratory data analysis, statistical testing, predictive modeling, machine learning, and business problem-solving.
 
-#### **Beta Bank — Customer Churn Prediction**
+### 1. Customer Churn Prediction — Beta Bank
+Developed classification models to predict customer churn and identify customers at risk of leaving the bank.
 
-Developed a classification model to identify customers at risk of leaving a bank. Compared class imbalance handling techniques and evaluated model performance using F1-score and ROC-AUC.
+**Technologies:** Python, Pandas, Scikit-learn, Machine Learning.
 
-**Tools:** Python, Pandas, NumPy, Scikit-learn
+[View Project](./BetaBank-Churn-Prediction/)
 
-View Project
+### 2. Instacart Customer Purchasing Analysis
+Explored customer purchasing habits, product trends, and shopping behavior using a reduced Instacart dataset.
 
-More Projects Coming Soon
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn.
 
-Additional projects covering predictive modeling, customer analytics, forecasting, and specialized machine learning applications will be added to this repository.
+[View Project](./Instacart-Customer-Analysis/)
 
-Interactive Application
+### 3. Film Junky Union — Sentiment Analysis
+Developed a sentiment analysis project to classify movie reviews using Natural Language Processing techniques.
 
-Used Car Price Explorer
+**Technologies:** Python, Pandas, Scikit-learn, NLP, TF-IDF.
 
-Built an interactive Streamlit application to explore used car data and support vehicle price analysis.
+[View Project](./Film-Junky-Union-Sentiment-Analysis/)
 
-View Live App · View Source Code
+### 4. Good Seed — Age Prediction
+Built a computer vision model using a convolutional neural network to estimate customers' ages from facial images.
 
-Connect With Me
+**Technologies:** Python, TensorFlow, Keras, ResNet50, Computer Vision.
 
-LinkedIn
+[View Project](./Good-Seed-Age-Prediction/)
 
-GitHub
+### 5. OilyGiant — Oil Well Region Selection
+Developed a Linear Regression model and applied bootstrapping to evaluate potential oil-producing regions and estimate investment risks.
+
+**Technologies:** Python, Pandas, Scikit-learn, Linear Regression, Bootstrapping.
+
+[View Project](./Oily-Giant-Region-Selection/)
+
+### 6. Zyfra — Gold Recovery Prediction
+Built machine learning models to predict gold recovery efficiency in an industrial extraction process.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Regression.
+
+[View Project](./Zyfra-Gold-Recovery-Prediction/)
+
+### 7. Rusty Bargain — Used Car Price Prediction
+Compared multiple regression algorithms to predict used car prices, considering prediction accuracy, training time, and inference speed.
+
+**Technologies:** Python, Pandas, Scikit-learn, XGBoost, LightGBM, CatBoost.
+
+[View Project](./Rusty-Bargain-Used-Car-Price-Prediction/)
+
+### 8. Sweet Lift Taxi — Order Forecasting
+Developed a time series forecasting model to predict taxi order demand and support fleet planning.
+
+**Technologies:** Python, Pandas, Scikit-learn, LightGBM, Time Series Analysis.
+
+[View Project](./Sweet-Lift-Taxi-Order-Forecasting/)
+
+### 9. Megaline — Telecom Plan Analysis & Recommendation
+Analyzed customer behavior and revenue patterns, conducted statistical hypothesis testing, and developed a classification model to recommend suitable telecom plans.
+
+**Technologies:** Python, Pandas, NumPy, SciPy, Scikit-learn.
+
+[View Project](./Megaline-Telecom-Plan-Analysis/)
+
+### 10. Interconnect — Customer Churn Prediction
+Developed a predictive model to identify telecommunications customers at risk of cancellation and evaluated the potential financial impact of a targeted retention strategy.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, SVM, Classification.
+
+[View Project](./Interconnect-Customer-Churn-Prediction/)
+
+### 11. Video Game Market Analysis
+Analyzed historical video game sales, platform lifecycles, regional preferences, and review scores to identify market trends and business opportunities.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statistical Analysis.
+
+[View Project](./Video-Game-Market-Analysis/)
+
+### 12. Chicago Taxi Market Analysis
+Used SQL and Python to investigate taxi company competition, geographic demand patterns, and the impact of rainy weather on trip duration.
+
+**Technologies:** SQL, Python, Pandas, Matplotlib, Seaborn, SciPy, Hypothesis Testing.
+
+[View Project](./Chicago-Taxi-Market-Analysis/)
+
+### 13. Sure Tomorrow — Insurance Machine Learning
+Explored customer similarity, insurance benefit prediction, and data obfuscation techniques to protect personal information while preserving model performance.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, kNN, Linear Regression, Data Obfuscation.
+
+[View Project](./Sure-Tomorrow-Insurance-ML/)
+
+## Professional Background
+
+Before transitioning into Data Science, I gained over 17 years of experience in the airline industry, particularly in crew planning, operational coordination, and training management.
+
+This experience strengthened my ability to work with complex operational data, identify process improvements, coordinate across teams, and make decisions in dynamic environments.
+
+I bring together this business perspective and my technical training to approach data challenges with both analytical and practical thinking.
+
+## Languages
+
+- Spanish: Native
+- English: B2
+- Japanese: B2
+
+## Let's Connect!
+
+- **LinkedIn:** [linkedin.com/in/liz-r-barrueta](https://www.linkedin.com/in/liz-r-barrueta/)
+- **GitHub:** [github.com/LizRBarrueta](https://github.com/LizRBarrueta)
+
+Thank you for visiting my portfolio!
