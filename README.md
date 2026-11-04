@@ -1,14 +1,14 @@
-# Lizbeth Rodríguez | Data Scientist
+# Lizbeth Rodríguez | Junior Data Scientist | Data Analyst
 
 Welcome to my Data Science portfolio!
 
-I am a Data Scientist with a background in Business Administration, Project Management, and over 17 years of professional experience in the airline industry.
+I am a Junior Data Scientist with a background in Business Administration and Project Management, bringing over 17 years of professional experience in the airline industry.
 
-After building my career in operational planning and data-driven decision-making, I transitioned into Data Science to combine my business experience with analytical and technical skills.
+Throughout my career, I worked in operational planning, crew management, and data-driven decision-making. This experience gave me a strong understanding of business operations and the importance of using data to improve processes and support strategic decisions.
 
-I recently completed the TripleTen Data Science Bootcamp, where I developed practical experience in data analysis, statistical testing, machine learning, and predictive modeling through real-world projects.
+After completing the TripleTen Data Science Bootcamp, I strengthened my technical skills in Python, SQL, statistical analysis, machine learning, and predictive modeling through hands-on projects.
 
-My goal is to transform data into meaningful insights and actionable business solutions.
+I am now looking to apply my analytical skills, technical knowledge, and business experience to solve real-world problems and deliver data-driven solutions.
 
 ## Technical Skills
 
