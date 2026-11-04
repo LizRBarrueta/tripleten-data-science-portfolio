@@ -44,56 +44,63 @@ I am now looking to apply my analytical skills, technical knowledge, and busines
 
 This portfolio showcases projects developed during my Data Science training, covering exploratory data analysis, statistical testing, predictive modeling, machine learning, and business problem-solving.
 
-### 1. Customer Churn Prediction — Beta Bank
+### 1. Interconnect — Customer Churn Prediction
+Developed and evaluated six classification algorithms to predict telecommunications customer churn. Applied feature engineering, class balancing, cross-validation, and hyperparameter optimization. The final SVM model achieved an AUC-ROC of 0.8314 and a Recall of 82.09%, correctly identifying 307 out of 374 customers who canceled their services.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, SVM, Classification.
+
+[View Project](./Interconnect-Customer-Churn-Prediction/)
+
+### 2. Rusty Bargain — Used Car Price Prediction
+Compared multiple machine learning algorithms to predict used car prices, evaluating model accuracy, training time, and prediction speed. XGBoost achieved the best RMSE of 1653.27.
+
+**Technologies:** Python, Pandas, Scikit-learn, XGBoost, LightGBM, CatBoost.
+
+[View Project](./Rusty-Bargain-Used-Car-Price-Prediction/)
+
+### 3. Customer Churn Prediction — Beta Bank
 Developed classification models to predict customer churn and identify customers at risk of leaving the bank.
 
 **Technologies:** Python, Pandas, Scikit-learn, Machine Learning.
 
 [View Project](./BetaBank-Churn-Prediction/)
 
-### 2. Instacart Customer Purchasing Analysis
+### 4. Instacart Customer Purchasing Analysis
 Explored customer purchasing habits, product trends, and shopping behavior using a reduced Instacart dataset.
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn.
 
 [View Project](./Instacart-Customer-Analysis/)
 
-### 3. Film Junky Union — Sentiment Analysis
+### 5. Film Junky Union — Sentiment Analysis
 Developed a sentiment analysis project to classify movie reviews using Natural Language Processing techniques.
 
 **Technologies:** Python, Pandas, Scikit-learn, NLP, TF-IDF.
 
 [View Project](./Film-Junky-Union-Sentiment-Analysis/)
 
-### 4. Good Seed — Age Prediction
+### 6. Good Seed — Age Prediction
 Built a computer vision model using a convolutional neural network to estimate customers' ages from facial images.
 
 **Technologies:** Python, TensorFlow, Keras, ResNet50, Computer Vision.
 
 [View Project](./Good-Seed-Age-Prediction/)
 
-### 5. OilyGiant — Oil Well Region Selection
+### 7. OilyGiant — Oil Well Region Selection
 Developed a Linear Regression model and applied bootstrapping to evaluate potential oil-producing regions and estimate investment risks.
 
 **Technologies:** Python, Pandas, Scikit-learn, Linear Regression, Bootstrapping.
 
 [View Project](./Oily-Giant-Region-Selection/)
 
-### 6. Zyfra — Gold Recovery Prediction
+### 8. Zyfra — Gold Recovery Prediction
 Built machine learning models to predict gold recovery efficiency in an industrial extraction process.
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, Regression.
 
 [View Project](./Zyfra-Gold-Recovery-Prediction/)
 
-### 7. Rusty Bargain — Used Car Price Prediction
-Compared multiple regression algorithms to predict used car prices, considering prediction accuracy, training time, and inference speed.
-
-**Technologies:** Python, Pandas, Scikit-learn, XGBoost, LightGBM, CatBoost.
-
-[View Project](./Rusty-Bargain-Used-Car-Price-Prediction/)
-
-### 8. Sweet Lift Taxi — Order Forecasting
+### 9. Sweet Lift Taxi — Order Forecasting
 Developed a time series forecasting model to predict taxi order demand and support fleet planning.
 
 **Technologies:** Python, Pandas, Scikit-learn, LightGBM, Time Series Analysis.
@@ -106,11 +113,6 @@ Analyzed customer behavior and revenue patterns, conducted statistical hypothesi
 **Technologies:** Python, Pandas, NumPy, SciPy, Scikit-learn.
 
 [View Project](./Megaline-Telecom-Plan-Analysis/)
-
-### 10. Interconnect — Customer Churn Prediction
-Developed a predictive model to identify telecommunications customers at risk of cancellation and evaluated the potential financial impact of a targeted retention strategy.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, SVM, Classification.
 
 [View Project](./Interconnect-Customer-Churn-Prediction/)
 
